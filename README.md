@@ -15,4 +15,4 @@
 (Github Link)[https://github.com/madhukonda]
 
 ## Photograph
-<img src="/images/image.jpeg" width="300" height="380">
+<img src="/image/image.jpeg" width="300" height="380">
