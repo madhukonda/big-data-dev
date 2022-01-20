@@ -12,7 +12,7 @@
  - I would like to work as a solution architect.
 
 ## Links
-Github Link[https://github.com/madhukonda]
+[Github Link] (https://github.com/madhukonda)
 
 ## Photograph
 <img src="/image/image.jpeg" width="300" height="380">
